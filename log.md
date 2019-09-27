@@ -9,3 +9,14 @@
 **Link(s) to work**
 1. [Original Freematics](https://github.com/stanleyhuangyc/Freematics)
 2. [My branch](https://github.com/JordyAraujo/Freematics/tree/CSV_Log_Formatting/firmware_v5/telelogger)
+
+### Day 2: September 27, Friday
+
+**Today's Progress**: I've done a simple C application that simulates a working ATM for a class.
+
+**Thoughts** It is simple and works just like the professor asked. I should check for bugs and translate it soon.
+
+**Link(s) to work**
+1. [ATMc repo](https://github.com/JordyAraujo/ATMc)
+
+
