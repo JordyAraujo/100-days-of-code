@@ -6,7 +6,7 @@
 
 #### Data de início
 
-25 de junho, 2016. [COLOQUE SUA DATA AQUI]
+26 de Setebro, 2019.
 
 ## Regras adicionais
 

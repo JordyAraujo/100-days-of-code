@@ -8,7 +8,7 @@
 
 **Link(s) to work**
 1. [Original Freematics](https://github.com/stanleyhuangyc/Freematics)
-2. [My branch](https://github.com/JordyAraujo/Freematics/tree/CSV_Log_Formatting/firmware_v5/telelogger)
+2. [My version](https://github.com/JordyAraujo/Freematics/tree/CSV_Log_Formatting/firmware_v5/telelogger)
 
 ### Day 2: September 27, Friday
 
@@ -19,4 +19,11 @@
 **Link(s) to work**
 1. [ATMc repo](https://github.com/JordyAraujo/ATMc)
 
+### Day 3: September 28, Saturday
 
+**Today's Progress**: I've organized the challenge repo and created a portuguese version.
+
+**Thoughts** I've made a general README.md to separate the contents by language.
+
+**Link(s) to work**
+1. [This repo](https://github.com/JordyAraujo/100-days-of-code)
