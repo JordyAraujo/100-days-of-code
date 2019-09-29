@@ -21,9 +21,10 @@
 
 ### Day 3: September 28, Saturday
 
-**Today's Progress**: I've organized the challenge repo and created a portuguese version.
+**Today's Progress**: I've organized the challenge repo and created a portuguese version, and made a C++ project for a Basic Data Structure class.
 
-**Thoughts** I've made a general README.md to separate the contents by language.
+**Thoughts** I've made a general README.md to separate the contents by language. The function buscaJump on the project is not finished.
 
 **Link(s) to work**
 1. [This repo](https://github.com/JordyAraujo/100-days-of-code)
+2. [C++ Project repo](https://github.com/JordyAraujo/TrabalhoEDB)

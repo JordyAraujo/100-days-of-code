@@ -21,9 +21,10 @@
 
 ### Dia 3: September 28, Sábado
 
-**Progresso do Dia**: Organizei o repositório do desafio e criei uma versão em português.
+**Progresso do Dia**: Organizei o repositório do desafio e criei uma versão em português, e criei um projeto em C++ para uma disciplina de Estruturas de Dados Básicas.
 
-**Observações** Criei um README.md mais geral para separar o conteúdo por idioma.
+**Observações** Criei um README.md mais geral para separar o conteúdo por idioma. A função buscaJump do projeto não está finalizada.
 
 **Link(s) do trabalho**
 1. [Este repositório](https://github.com/JordyAraujo/100-days-of-code)
+2. [Repositório do projeto](https://github.com/JordyAraujo/TrabalhoEDB)
