@@ -28,3 +28,13 @@
 **Link(s) to work**
 1. [This repo](https://github.com/JordyAraujo/100-days-of-code)
 2. [C++ Project repo](https://github.com/JordyAraujo/TrabalhoEDB)
+
+### Day 4: September 29, Sunday
+
+**Today's Progress**: I've solved problem #10 of the [Project Euler](https://projecteuler.net/problem=10), which asked to find the sum of all primes numbers below two million. The answer was 142913828922.
+
+**Thoughts** I've used the Sieve of Eratosthenes to find the prime numbers list faster.
+
+**Link(s) to work**
+1. [Project Euler](https://projecteuler.net/problem=10)
+2. [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
