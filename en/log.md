@@ -31,10 +31,20 @@
 
 ### Day 4: September 29, Sunday
 
-**Today's Progress**: I've solved problem #10 of the [Project Euler](https://projecteuler.net/problem=10), which asked to find the sum of all primes numbers below two million. The answer was 142913828922.
+**Today's Progress**: I've solved problem #10 of the [Project Euler](https://projecteuler.net/problem=10), which asked to find the sum of all primes numbers below two million. The answer is 142913828922.
 
 **Thoughts** I've used the Sieve of Eratosthenes to find the prime numbers list faster.
 
 **Link(s) to work**
 1. [Project Euler](https://projecteuler.net/problem=10)
+2. [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
+
+### Day 5: September 30, Monday
+
+**Today's Progress**: I've solved problem #7 of the [Project Euler](https://projecteuler.net/problem=7), which asked to find the 10001th prime number. The answer is 104743.
+
+**Thoughts** I've also used the Sieve of Eratosthenes to find the prime numbers list faster. Actually, that's why I've done this problem. It was halfway solved when I did #10.
+
+**Link(s) to work**
+1. [Project Euler](https://projecteuler.net/problem=7)
 2. [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
