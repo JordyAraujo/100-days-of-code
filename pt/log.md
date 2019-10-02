@@ -57,3 +57,13 @@
 
 **Link(s) do trabalho**
 1. [Link pro curso](https://www.udemy.com/share/1013eSBUYSeFhRRHw=/)
+
+### Dia 7: 2 de Outubro, Quarta-Feira
+
+**Progresso do Dia**: Terminei de formatar a saída do CSV do [Freematics Telelogger (firmware_v5)](https://github.com/stanleyhuangyc/Freematics/tree/master/firmware_v5/telelogger).
+
+**Observações** Decidi usar o buffer de novo e salvar os dados só uma vez. O código ficou mais simples.
+
+**Link(s) do trabalho**
+1. [Freematics Original](https://github.com/stanleyhuangyc/Freematics)
+2. [Minha versão](https://github.com/JordyAraujo/Freematics/tree/CSV_Log_Formatting/firmware_v5/telelogger)
