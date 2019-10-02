@@ -48,3 +48,12 @@
 **Link(s) to work**
 1. [Project Euler](https://projecteuler.net/problem=7)
 2. [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
+
+### Day 6: October 1, Tuesday
+
+**Today's Progress**: I'm back to my Modern Web Course, today's lesson was about nested lists.
+
+**Thoughts** The professor proposed an interesting challenge to expand and hide itens on the list.
+
+**Link(s) to work**
+1. [Modern Web Course](https://www.udemy.com/share/1013eSBUYSeFhRRHw=/)

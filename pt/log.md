@@ -39,7 +39,7 @@
 1. [Projeto Euler](https://projecteuler.net/problem=10)
 2. [Crivo de Eratóstenes](https://pt.wikipedia.org/wiki/Crivo_de_Eratóstenes)
 
-### Dia 4: 30 de Setembro, Domingo
+### Dia 5: 30 de Setembro, Segunda-Feira
 
 **Progresso do Dia**: Resolvi o desafio #7 do [Projeto Euler](https://projecteuler.net/problem=7), que pedia para encontrar o 10001-ésimo número primo. A resposta é 104743.
 
@@ -48,3 +48,12 @@
 **Link(s) do trabalho**
 1. [Projeto Euler](https://projecteuler.net/problem=7)
 2. [Crivo de Eratóstenes](https://pt.wikipedia.org/wiki/Crivo_de_Eratóstenes)
+
+### Dia 6: 1 de Outubro, Terça-Feira
+
+**Progresso do Dia**: Voltei pro meu curso online de Web Moderno e hoje aprendi sobre listas aninhadas.
+
+**Observações** O professor propôs um desafio interessante pra expandir e esconder ítens das listas.
+
+**Link(s) do trabalho**
+1. [Link pro curso](https://www.udemy.com/share/1013eSBUYSeFhRRHw=/)
